@@ -1,6 +1,6 @@
 Materia: Algoritmos y Estructuras de Datos II
 # Alumno/a: Andrés Navarro
-# TP N°: 1 | Ejercicio N°: 1
+# Ejercicio N°: 1
 # Fecha de entrega: 23/04/2026
 
 """
